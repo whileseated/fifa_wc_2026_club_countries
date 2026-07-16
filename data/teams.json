@@ -1,0 +1,335 @@
+{
+  "_comment": "2026 FIFA World Cup — 48-team registry. `roster` is the CSV filename in data/rosters/ (without extension), or null if not yet gathered. Add a team by dropping <name>.csv in data/rosters/ and setting roster here.",
+  "confederations": [
+    {
+      "code": "HOST",
+      "name": "Hosts",
+      "teams": [
+        {
+          "code": "CAN",
+          "name": "Canada",
+          "flag": "🇨🇦",
+          "roster": "canada"
+        },
+        {
+          "code": "MEX",
+          "name": "Mexico",
+          "flag": "🇲🇽",
+          "roster": "mexico"
+        },
+        {
+          "code": "USA",
+          "name": "United States",
+          "flag": "🇺🇸",
+          "roster": "united-states"
+        }
+      ]
+    },
+    {
+      "code": "CONMEBOL",
+      "name": "CONMEBOL",
+      "teams": [
+        {
+          "code": "ARG",
+          "name": "Argentina",
+          "flag": "🇦🇷",
+          "roster": "argentina"
+        },
+        {
+          "code": "BRA",
+          "name": "Brazil",
+          "flag": "🇧🇷",
+          "roster": "brazil"
+        },
+        {
+          "code": "COL",
+          "name": "Colombia",
+          "flag": "🇨🇴",
+          "roster": "colombia"
+        },
+        {
+          "code": "ECU",
+          "name": "Ecuador",
+          "flag": "🇪🇨",
+          "roster": "ecuador"
+        },
+        {
+          "code": "PAR",
+          "name": "Paraguay",
+          "flag": "🇵🇾",
+          "roster": "paraguay"
+        },
+        {
+          "code": "URU",
+          "name": "Uruguay",
+          "flag": "🇺🇾",
+          "roster": "uruguay"
+        }
+      ]
+    },
+    {
+      "code": "UEFA",
+      "name": "UEFA",
+      "teams": [
+        {
+          "code": "AUT",
+          "name": "Austria",
+          "flag": "🇦🇹",
+          "roster": "austria"
+        },
+        {
+          "code": "BEL",
+          "name": "Belgium",
+          "flag": "🇧🇪",
+          "roster": "belgium"
+        },
+        {
+          "code": "BIH",
+          "name": "Bosnia and Herzegovina",
+          "flag": "🇧🇦",
+          "roster": "bosnia-and-herzegovina"
+        },
+        {
+          "code": "CRO",
+          "name": "Croatia",
+          "flag": "🇭🇷",
+          "roster": "croatia"
+        },
+        {
+          "code": "CZE",
+          "name": "Czechia",
+          "flag": "🇨🇿",
+          "roster": "czechia"
+        },
+        {
+          "code": "ENG",
+          "name": "England",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "roster": "england"
+        },
+        {
+          "code": "FRA",
+          "name": "France",
+          "flag": "🇫🇷",
+          "roster": "france"
+        },
+        {
+          "code": "GER",
+          "name": "Germany",
+          "flag": "🇩🇪",
+          "roster": "germany"
+        },
+        {
+          "code": "NED",
+          "name": "Netherlands",
+          "flag": "🇳🇱",
+          "roster": "netherlands"
+        },
+        {
+          "code": "NOR",
+          "name": "Norway",
+          "flag": "🇳🇴",
+          "roster": "norway"
+        },
+        {
+          "code": "POR",
+          "name": "Portugal",
+          "flag": "🇵🇹",
+          "roster": "portugal"
+        },
+        {
+          "code": "SCO",
+          "name": "Scotland",
+          "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+          "roster": "scotland"
+        },
+        {
+          "code": "ESP",
+          "name": "Spain",
+          "flag": "🇪🇸",
+          "roster": "spain"
+        },
+        {
+          "code": "SWE",
+          "name": "Sweden",
+          "flag": "🇸🇪",
+          "roster": "sweden"
+        },
+        {
+          "code": "SUI",
+          "name": "Switzerland",
+          "flag": "🇨🇭",
+          "roster": "switzerland"
+        },
+        {
+          "code": "TUR",
+          "name": "Türkiye",
+          "flag": "🇹🇷",
+          "roster": "turkiye"
+        }
+      ]
+    },
+    {
+      "code": "CONCACAF",
+      "name": "CONCACAF",
+      "teams": [
+        {
+          "code": "CUW",
+          "name": "Curaçao",
+          "flag": "🇨🇼",
+          "roster": "curacao"
+        },
+        {
+          "code": "HAI",
+          "name": "Haiti",
+          "flag": "🇭🇹",
+          "roster": "haiti"
+        },
+        {
+          "code": "PAN",
+          "name": "Panama",
+          "flag": "🇵🇦",
+          "roster": "panama"
+        }
+      ]
+    },
+    {
+      "code": "CAF",
+      "name": "CAF",
+      "teams": [
+        {
+          "code": "ALG",
+          "name": "Algeria",
+          "flag": "🇩🇿",
+          "roster": "algeria"
+        },
+        {
+          "code": "CPV",
+          "name": "Cabo Verde",
+          "flag": "🇨🇻",
+          "roster": "cabo-verde"
+        },
+        {
+          "code": "COD",
+          "name": "DR Congo",
+          "flag": "🇨🇩",
+          "roster": "dr-congo"
+        },
+        {
+          "code": "CIV",
+          "name": "Côte d'Ivoire",
+          "flag": "🇨🇮",
+          "roster": "cote-d-ivoire"
+        },
+        {
+          "code": "EGY",
+          "name": "Egypt",
+          "flag": "🇪🇬",
+          "roster": "egypt"
+        },
+        {
+          "code": "GHA",
+          "name": "Ghana",
+          "flag": "🇬🇭",
+          "roster": "ghana"
+        },
+        {
+          "code": "MAR",
+          "name": "Morocco",
+          "flag": "🇲🇦",
+          "roster": "morocco"
+        },
+        {
+          "code": "SEN",
+          "name": "Senegal",
+          "flag": "🇸🇳",
+          "roster": "senegal"
+        },
+        {
+          "code": "RSA",
+          "name": "South Africa",
+          "flag": "🇿🇦",
+          "roster": "south-africa"
+        },
+        {
+          "code": "TUN",
+          "name": "Tunisia",
+          "flag": "🇹🇳",
+          "roster": "tunisia"
+        }
+      ]
+    },
+    {
+      "code": "AFC",
+      "name": "AFC",
+      "teams": [
+        {
+          "code": "AUS",
+          "name": "Australia",
+          "flag": "🇦🇺",
+          "roster": "australia"
+        },
+        {
+          "code": "IRN",
+          "name": "IR Iran",
+          "flag": "🇮🇷",
+          "roster": "ir-iran"
+        },
+        {
+          "code": "IRQ",
+          "name": "Iraq",
+          "flag": "🇮🇶",
+          "roster": "iraq"
+        },
+        {
+          "code": "JPN",
+          "name": "Japan",
+          "flag": "🇯🇵",
+          "roster": "japan"
+        },
+        {
+          "code": "JOR",
+          "name": "Jordan",
+          "flag": "🇯🇴",
+          "roster": "jordan"
+        },
+        {
+          "code": "KOR",
+          "name": "Korea Republic",
+          "flag": "🇰🇷",
+          "roster": "korea-republic"
+        },
+        {
+          "code": "QAT",
+          "name": "Qatar",
+          "flag": "🇶🇦",
+          "roster": "qatar"
+        },
+        {
+          "code": "KSA",
+          "name": "Saudi Arabia",
+          "flag": "🇸🇦",
+          "roster": "saudi-arabia"
+        },
+        {
+          "code": "UZB",
+          "name": "Uzbekistan",
+          "flag": "🇺🇿",
+          "roster": "uzbekistan"
+        }
+      ]
+    },
+    {
+      "code": "OFC",
+      "name": "OFC",
+      "teams": [
+        {
+          "code": "NZL",
+          "name": "New Zealand",
+          "flag": "🇳🇿",
+          "roster": "new-zealand"
+        }
+      ]
+    }
+  ]
+}

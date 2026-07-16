@@ -1,0 +1,218 @@
+{
+  "_comment": "Auto-generated flag lookup for club countries.",
+  "countries": {
+    "Algeria": {
+      "flag": "🇩🇿"
+    },
+    "Argentina": {
+      "flag": "🇦🇷"
+    },
+    "Armenia": {
+      "flag": "🇦🇲"
+    },
+    "Australia": {
+      "flag": "🇦🇺"
+    },
+    "Austria": {
+      "flag": "🇦🇹"
+    },
+    "Azerbaijan": {
+      "flag": "🇦🇿"
+    },
+    "Belgium": {
+      "flag": "🇧🇪"
+    },
+    "Bosnia and Herzegovina": {
+      "flag": "🇧🇦"
+    },
+    "Brazil": {
+      "flag": "🇧🇷"
+    },
+    "Bulgaria": {
+      "flag": "🇧🇬"
+    },
+    "Canada": {
+      "flag": "🇨🇦"
+    },
+    "Chile": {
+      "flag": "🇨🇱"
+    },
+    "China": {
+      "flag": "🇨🇳"
+    },
+    "Colombia": {
+      "flag": "🇨🇴"
+    },
+    "Costa Rica": {
+      "flag": "🇨🇷"
+    },
+    "Croatia": {
+      "flag": "🇭🇷"
+    },
+    "Cyprus": {
+      "flag": "🇨🇾"
+    },
+    "Czechia": {
+      "flag": "🇨🇿"
+    },
+    "Denmark": {
+      "flag": "🇩🇰"
+    },
+    "Ecuador": {
+      "flag": "🇪🇨"
+    },
+    "Egypt": {
+      "flag": "🇪🇬"
+    },
+    "England": {
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    "Finland": {
+      "flag": "🇫🇮"
+    },
+    "France": {
+      "flag": "🇫🇷"
+    },
+    "Germany": {
+      "flag": "🇩🇪"
+    },
+    "Ghana": {
+      "flag": "🇬🇭"
+    },
+    "Greece": {
+      "flag": "🇬🇷"
+    },
+    "Haiti": {
+      "flag": "🇭🇹"
+    },
+    "Honduras": {
+      "flag": "🇭🇳"
+    },
+    "Hungary": {
+      "flag": "🇭🇺"
+    },
+    "Indonesia": {
+      "flag": "🇮🇩"
+    },
+    "Iran": {
+      "flag": "🇮🇷"
+    },
+    "Iraq": {
+      "flag": "🇮🇶"
+    },
+    "Israel": {
+      "flag": "🇮🇱"
+    },
+    "Italy": {
+      "flag": "🇮🇹"
+    },
+    "Japan": {
+      "flag": "🇯🇵"
+    },
+    "Jordan": {
+      "flag": "🇯🇴"
+    },
+    "Kazakhstan": {
+      "flag": "🇰🇿"
+    },
+    "Malaysia": {
+      "flag": "🇲🇾"
+    },
+    "Mexico": {
+      "flag": "🇲🇽"
+    },
+    "Morocco": {
+      "flag": "🇲🇦"
+    },
+    "Netherlands": {
+      "flag": "🇳🇱"
+    },
+    "New Zealand": {
+      "flag": "🇳🇿"
+    },
+    "Norway": {
+      "flag": "🇳🇴"
+    },
+    "Panama": {
+      "flag": "🇵🇦"
+    },
+    "Paraguay": {
+      "flag": "🇵🇾"
+    },
+    "Poland": {
+      "flag": "🇵🇱"
+    },
+    "Portugal": {
+      "flag": "🇵🇹"
+    },
+    "Qatar": {
+      "flag": "🇶🇦"
+    },
+    "Republic of Ireland": {
+      "flag": "🇮🇪"
+    },
+    "Romania": {
+      "flag": "🇷🇴"
+    },
+    "Russia": {
+      "flag": "🇷🇺"
+    },
+    "Saudi Arabia": {
+      "flag": "🇸🇦"
+    },
+    "Scotland": {
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+    },
+    "Serbia": {
+      "flag": "🇷🇸"
+    },
+    "Slovakia": {
+      "flag": "🇸🇰"
+    },
+    "Slovenia": {
+      "flag": "🇸🇮"
+    },
+    "South Africa": {
+      "flag": "🇿🇦"
+    },
+    "South Korea": {
+      "flag": "🇰🇷"
+    },
+    "Spain": {
+      "flag": "🇪🇸"
+    },
+    "Sweden": {
+      "flag": "🇸🇪"
+    },
+    "Switzerland": {
+      "flag": "🇨🇭"
+    },
+    "Thailand": {
+      "flag": "🇹🇭"
+    },
+    "Tunisia": {
+      "flag": "🇹🇳"
+    },
+    "Türkiye": {
+      "flag": "🇹🇷"
+    },
+    "United Arab Emirates": {
+      "flag": "🇦🇪"
+    },
+    "United States": {
+      "flag": "🇺🇸"
+    },
+    "Uruguay": {
+      "flag": "🇺🇾"
+    },
+    "Uzbekistan": {
+      "flag": "🇺🇿"
+    },
+    "Venezuela": {
+      "flag": "🇻🇪"
+    },
+    "Wales": {
+      "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+    }
+  }
+}
