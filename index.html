@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>World Cup 2026 — Who Do They Play For?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Code+Pro:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrap" id="wrap">
+    <header class="page-head">
+      <h1 class="page-title"><a href="/">World Cup 2026 — Club Countries</a></h1>
+      <p class="subtitle">Each national-team player, the club they play for, and that club's country.</p>
+
+      <div class="controls">
+        <label class="control">
+          <span class="control-label">Team</span>
+          <select id="teamSelect" class="team-select"></select>
+        </label>
+        <label class="control">
+          <span class="control-label">Group by</span>
+          <select id="groupSelect" class="group-select">
+            <option value="proCountry" selected>Pro-team country</option>
+            <option value="birthCountry" disabled>Country of birth (coming soon)</option>
+          </select>
+        </label>
+      </div>
+    </header>
+
+    <div id="notice" class="notice" hidden></div>
+    <div id="clubHeader" class="club-header" hidden></div>
+
+    <svg id="overlay">
+      <g id="paths"></g>
+    </svg>
+
+    <main id="board" class="board">
+      <section class="column column-players" aria-label="Players">
+        <div class="column-head">Players <span class="col-count" id="countPlayers"></span></div>
+        <div class="column-body" id="colPlayers"></div>
+      </section>
+      <section class="column column-clubs" aria-label="Clubs">
+        <div class="column-head">Clubs <span class="col-count" id="countClubs"></span></div>
+        <div class="column-body" id="colClubs"></div>
+      </section>
+      <section class="column column-countries" aria-label="Pro-team countries">
+        <div class="column-head" id="headCountries">Pro-team countries <span class="col-count" id="countCountries"></span></div>
+        <div class="column-body" id="colCountries"></div>
+      </section>
+    </main>
+
+    <footer class="page-foot">
+      <div id="dynamic-footer"></div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
