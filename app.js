@@ -169,7 +169,7 @@ async function loadRegistry() {
   // else the first team that has a roster.
   const initialHash = location.hash;
   const urlCode = (/^#team=([a-z]{3})$/i.exec(initialHash) || [])[1];
-  const argentina = TEAM_ROSTER["Argentina"] ? teamSelect.querySelector('option[data-name="Argentina"]') : null;
+  const argentina = TEAM_ROSTER["Spain"] ? teamSelect.querySelector('option[data-name="Spain"]') : null;
   const firstWithRoster = teamSelect.querySelector("option:not([disabled])[value]:not([value=''])");
   const defaultRoster =
     (urlCode && CODE_TO_ROSTER[urlCode.toUpperCase()]) ||
